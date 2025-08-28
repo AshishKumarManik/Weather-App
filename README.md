@@ -27,15 +27,13 @@ A simple and interactive **Weather Application** that provides real-time weather
 
 ## 🔗 Live Demo
 
-[Click here to view the project](https://your-live-demo-link.com)
+[Click Here ](https://www.linkedin.com/in/ashish-manik-15022005ak/)
 
 ## 🤝 Contributing
 
 Feel free to fork this repo, submit issues, or send pull requests to improve the app!
 
-## 📧 Contact
 
-Created by **[AK_Manik](https://www.linkedin.com/in/your-profile/)** 
-– let’s connect!
-
+## 📧 Contact  
+Created by **[AK_Manik](https://www.linkedin.com/in/ashish-manik-15022005ak/)** – let’s connect!
 ---
